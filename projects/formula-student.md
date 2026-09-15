@@ -45,9 +45,9 @@ You can find more pictures of the system and its subparts below.
 ### Images
 
 <div class="image-gallery">
-  <img src="/assets/images/image-1.jpg" alt="Gallery Image 1">
-  <img src="/assets/images/image-2.jpg" alt="Gallery Image 2">
-  <img src="/assets/images/image-3.jpg" alt="Gallery Image 3">
+  <img src="/assets/images/image-1.png" alt="Gallery Image 1">
+  <img src="/assets/images/image-2.png" alt="Gallery Image 2">
+  <img src="/assets/images/image-3.png" alt="Gallery Image 3">
   <img src="/assets/images/image-4.jpg" alt="Gallery Image 4">
   <img src="/assets/images/image-5.jpg" alt="Gallery Image 5">
   <img src="/assets/images/image-6.jpg" alt="Gallery Image 6">
