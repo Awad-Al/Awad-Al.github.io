@@ -13,9 +13,14 @@ permalink: /formula-student/
 ### Project Overview
 As part of a three-person sub-team, I was responsible for the end-to-end development of the steering system for the KTH Formula Student race car. This project required a balance of theoretical calculation, digital modeling, and hands-on manufacturing.
 
-### Technical Challenges & Solutions
+### Introductory Words
+This page does not give a comprehensive understanding of all the work done. It is meant to keep the work we have done available to me. I was also part of the team for about 2 years and so I worked on 2 different cars. This page focuses on my second year in the team where I took on a more crucial part in designing and manufacturing the Steering System for the DeV18 car.
 
-[Insert extended paragraph about a specific engineering problem and solution here]
+![The Car at Formula Student Germany](/assets/images/steering-cad.png)
+*Caption: Initial NX CAD model of the steering column and rack.*
+
+### Technical Challenges & Solutions
+The purpose of the work was to design 
 
 ![CAD Model of the Steering System](/assets/images/steering-cad.png)
 *Caption: Initial NX CAD model of the steering column and rack.*
