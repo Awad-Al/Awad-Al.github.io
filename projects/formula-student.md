@@ -40,7 +40,7 @@ We did not just design the parts; we built them. This involved significant time 
 
 <figure class="custom-figure">
   <video autoplay loop muted playsinline>
-    <source src="/assets/gifs/20240412_164624.mov" type="video/quicktime">
+    <source src="/assets/gifs/20240412_164624.mp4" type="video/quicktime">
     Your browser does not support the video tag.
   </video>
   <figcaption>Gearbox 3D printed protoype.</figcaption>
