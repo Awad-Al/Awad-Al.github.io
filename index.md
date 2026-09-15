@@ -4,6 +4,6 @@ layout: home
 
 ## About Me
 
-Welcome to my professional portfolio. I am currently seeking new opportunities. 
+Welcome to my personal webpage. I am currently seeking new opportunities. 
 
-Use the navigation links above to view my resume or connect with me on GitHub and LinkedIn.
+Use the navigation links above to view my resume and experiences or connect with me on GitHub and LinkedIn.
