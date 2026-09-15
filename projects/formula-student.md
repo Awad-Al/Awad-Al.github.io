@@ -46,15 +46,6 @@ We did not just design the parts; we built them. This involved significant time 
   <figcaption>Gearbox 3D printed protoype.</figcaption>
 </figure>
 
-<figure class="custom-figure">
-  <video autoplay loop muted playsinline>
-    <source src="/assets/gifs/20240412_164624.mp4" type="video/quicktime">
-    <!-- This image acts as the fallback if the browser cannot process the MP4 -->
-    <img src="/assets/gifs/your-video.gif" alt="Machining process of the steering rack">
-  </video>
-  <figcaption>Gearbox 3D printed protoype.</figcaption>
-</figure>
-
 Some parts, such as the gears of the gearbox were also hardened in house. 
 
 <figure class="custom-figure">
@@ -63,6 +54,11 @@ Some parts, such as the gears of the gearbox were also hardened in house.
     Your browser does not support the video tag.
   </video>
   <figcaption>Gearbox testing.</figcaption>
+</figure>
+
+<figure class="custom-figure">
+  <img src="/assets/gifs/IMG_0759.gif" alt="Machining process of the steering rack">
+  <figcaption>Machining process of the steering rack.</figcaption>
 </figure>
 
 You can find more pictures of the system and its subparts below.
