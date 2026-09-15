@@ -22,14 +22,15 @@ I am a Mechatronics engineering graduate from KTH. Throughout my studies, I have
 * Repair and maintenance of Electric Scooters.
   
 ### Projects
-**Radio Channel modelling for 5G-aware planning of industrial robots** (2025)
+**[Radio Channel modelling for 5G-aware planning of industrial robots](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A2001917&dswid=9199)** (2025)
 * Implemented and compared two approaches for modeling 5G network channels in collaboration with a partner.
 * Enabled communication-aware planning for mobile robots, gaining practical knowledge in wireless networks, radio, and communication.
 
-**[Model predictive control of a BlueROV2](https://www.kth.se/social/files/68c2d5000a795d34448c3609/saabmarine-final-report-late.pdf)** (2024)* Collaborated with eight students on modeling, simulation, and control of an open-source remotely operated underwater vehicle (ROV).
+**[Model predictive control of a BlueROV2](https://www.kth.se/social/files/68c2d5000a795d34448c3609/saabmarine-final-report-late.pdf)** (2024)
+* Collaborated with eight students on modeling, simulation, and control of an open-source remotely operated underwater vehicle (ROV).
 * Utilized Python, ROS, and Unity for execution.
 
-**Gait pattern generation for a quadruped using PID control** (2023)
+**[Gait pattern generation for a quadruped using PID control](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1774965&dswid=8493)** (2023)
 * Designed, built, simulated, and controlled a quadruped robot using a PID controller for a Bachelor thesis project.
 * Conducted simulations in Matlab Simulink.
 
