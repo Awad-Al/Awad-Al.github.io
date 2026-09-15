@@ -4,40 +4,6 @@ title: KTH Formula Student
 permalink: /formula-student/
 ---
 
-<style>
-  /* Styles for individual centered images with captions */
-  .custom-figure {
-    text-align: center;
-    margin: 2em 0;
-  }
-  .custom-figure img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 4px;
-  }
-  .custom-figure figcaption {
-    font-style: italic;
-    font-size: 0.9em;
-    color: #666;
-    margin-top: 0.5em;
-  }
-
-  /* Styles for the bulk image gallery */
-  .image-gallery {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 15px;
-    margin-top: 1.5em;
-    margin-bottom: 2em;
-  }
-  .image-gallery img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    border-radius: 4px;
-  }
-</style>
-
 ## Steering System Design and Manufacturing
 
 **Role:** Mechanical Design Engineer  
@@ -82,9 +48,11 @@ You can find more pictures of the system and its subparts below.
   <img src="/assets/images/image-1.jpg" alt="Gallery Image 1">
   <img src="/assets/images/image-2.jpg" alt="Gallery Image 2">
   <img src="/assets/images/image-3.jpg" alt="Gallery Image 3">
-  <img src="/assets/images/gallery-image-4.jpg" alt="Gallery Image 4">
-  <img src="/assets/images/gallery-image-5.jpg" alt="Gallery Image 5">
-  <img src="/assets/images/gallery-image-6.jpg" alt="Gallery Image 6">
+  <img src="/assets/images/image-4.jpg" alt="Gallery Image 4">
+  <img src="/assets/images/image-5.jpg" alt="Gallery Image 5">
+  <img src="/assets/images/image-6.jpg" alt="Gallery Image 6">
+  <img src="/assets/images/image-7.jpg" alt="Gallery Image 7">
+  <img src="/assets/images/image-8.jpg" alt="Gallery Image 8">
 </div>
 
 [← Back to Resume](/resume/)
