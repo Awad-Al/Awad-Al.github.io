@@ -1,10 +1,11 @@
-title: Awad Al
-author: Awad Al
-email: your.email@example.com
+title: Awad AlNasrallah
+author: Awad AlNasrallah
+email: awad.alnasrallah@gmail.com
 description: >-
   Professional portfolio and resume.
 theme: minima
 header_pages:
   - resume.md
+  - projects.md
 github_username: Awad-Al
 linkedin_username: your-linkedin-handle
