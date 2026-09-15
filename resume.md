@@ -26,8 +26,7 @@ I am a Mechatronics engineering graduate from KTH. Throughout my studies, I have
 * Implemented and compared two approaches for modeling 5G network channels in collaboration with a partner.
 * Enabled communication-aware planning for mobile robots, gaining practical knowledge in wireless networks, radio, and communication.
 
-**[Model predictive control of a BlueROV2](/bluerov2/)** (2024)
-* Collaborated with eight students on modeling, simulation, and control of an open-source remotely operated underwater vehicle (ROV).
+**[Model predictive control of a BlueROV2](https://www.kth.se/social/files/68c2d5000a795d34448c3609/saabmarine-final-report-late.pdf)** (2024)* Collaborated with eight students on modeling, simulation, and control of an open-source remotely operated underwater vehicle (ROV).
 * Utilized Python, ROS, and Unity for execution.
 
 **Gait pattern generation for a quadruped using PID control** (2023)
