@@ -18,7 +18,7 @@ I am a Mechatronics engineering graduate from KTH. Throughout my studies, I have
 * Utilized CAD in NX and performed Matlab calculations.
 * Operated manual lathes, mills, CNC mills, and other machines for part manufacturing.
 
-**[Mechanic | Tier Mobility]** (Summer 2021 & Summer 2022)
+**Mechanic | Tier Mobility** (Summer 2021 & Summer 2022)
 * Repair and maintenance of Electric Scooters.
   
 ### Projects
