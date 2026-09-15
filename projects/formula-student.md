@@ -17,7 +17,7 @@ As part of a three-person sub-team, I was responsible for the end-to-end develop
 
 [Insert extended paragraph about a specific engineering problem and solution here]
 
-![CAD Model of the Steering System](/assets/images/steering-cad.jpg)
+![CAD Model of the Steering System](/assets/images/steering-cad.png)
 *Caption: Initial NX CAD model of the steering column and rack.*
 
 ### Manufacturing Process
