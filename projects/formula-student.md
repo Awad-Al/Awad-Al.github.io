@@ -73,7 +73,7 @@ You can find more pictures of the system and its subparts below.
 
 <figure class="custom-figure">
   <video autoplay loop muted playsinline>
-    <source src="/assets/gifs/IMG_0759.mov" type="video/quicktime">
+    <source src="/assets/gifs/IMG_0759.MOV" type="video/quicktime">
     Your browser does not support the video tag.
   </video>
   <figcaption>Full system testing.</figcaption>
