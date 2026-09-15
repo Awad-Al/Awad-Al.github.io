@@ -31,18 +31,34 @@ The purpose of the work was to design a steering system formula student car. The
 
 ### Manufacturing Process
 
-We did not just design the parts; we built them. This involved significant time in the machine shop converting raw materials into race-ready components. The manufacturing process involved manual lathing and milling as well as CNC milling.
+We did not just design the parts; we built them. This involved significant time in the machine shop converting raw materials into race-ready components. The manufacturing process involved manual lathing and milling as well as CNC milling. Sometimes, prototype were made through 3D printing for quick conceptual evaluation. 
 
 <figure class="custom-figure">
   <img src="/assets/images/milling.jpg" alt="Machining the steering components">
   <figcaption>Manual milling process at KTHs Metal Workshop.</figcaption>
 </figure>
 
+<figure class="custom-figure">
+  <video autoplay loop muted playsinline>
+    <source src="/assets/gifs/20240412_164624.mov" type="video/quicktime">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption>Gearbox 3D printed protoype.</figcaption>
+</figure>
+
 Some parts, such as the gears of the gearbox were also hardened in house. 
+
+<figure class="custom-figure">
+  <video autoplay loop muted playsinline>
+    <source src="/assets/gifs/IMG_0690.mov" type="video/quicktime">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption>Gearbox testing.</figcaption>
+</figure>
 
 You can find more pictures of the system and its subparts below.
 
-### Images
+### Gallery
 
 <div class="image-gallery">
   <img src="/assets/images/image-1.png" alt="Gallery Image 1">
@@ -54,5 +70,13 @@ You can find more pictures of the system and its subparts below.
   <img src="/assets/images/image-7.jpg" alt="Gallery Image 7">
   <img src="/assets/images/image-8.jpg" alt="Gallery Image 8">
 </div>
+
+<figure class="custom-figure">
+  <video autoplay loop muted playsinline>
+    <source src="/assets/gifs/IMG_0759.mov" type="video/quicktime">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption>Full system testing.</figcaption>
+</figure>
 
 [← Back to Resume](/resume/)
