@@ -8,7 +8,7 @@ permalink: /formula-student/
 
 **Role:** Mechanical Design Engineer  
 **Timeline:** 2022 - 2024  
-**Tools Used:** NX CAD, MATLAB, Manual Lathes, CNC Mills  
+**Tools Used:** NX CAD, MATLAB, Manual Lathes, Manual Mills, CNC Mills, Pillar Drills etc.
 
 ### Project Overview
 As part of a three-person sub-team, I was responsible for the end-to-end development of the steering system for the KTH Formula Student race car. This project required a balance of theoretical calculation, digital modeling, and hands-on manufacturing.
