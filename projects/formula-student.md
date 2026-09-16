@@ -39,26 +39,20 @@ We did not just design the parts; we built them. This involved significant time 
 </figure>
 
 <figure class="custom-figure">
-  <video autoplay loop muted playsinline>
-    <source src="/assets/gifs/20240412_164624.mp4" type="video/quicktime">
-    Your browser does not support the video tag.
-  </video>
-  <figcaption>Gearbox 3D printed protoype.</figcaption>
+  <img src="/assets/gifs/20240412_164624.gif" alt="Gearbox proto">
+  <figcaptionGearbox 3D printed protoype.</figcaption>
 </figure>
 
 Some parts, such as the gears of the gearbox were also hardened in house. 
 
 <figure class="custom-figure">
-  <video autoplay loop muted playsinline>
-    <source src="/assets/gifs/IMG_0690.mov" type="video/quicktime">
-    Your browser does not support the video tag.
-  </video>
+  <img src="/assets/gifs/IMG_0690.gif" alt="Testing System Unmounted">
   <figcaption>Gearbox testing.</figcaption>
 </figure>
 
 <figure class="custom-figure">
-  <img src="/assets/gifs/IMG_0759.gif" alt="Machining process of the steering rack">
-  <figcaption>Machining process of the steering rack.</figcaption>
+  <img src="/assets/gifs/IMG_0960.gif" alt="Gearbox Hardening">
+  <figcaption>Gearbox Hardening.</figcaption>
 </figure>
 
 You can find more pictures of the system and its subparts below.
@@ -77,11 +71,13 @@ You can find more pictures of the system and its subparts below.
 </div>
 
 <figure class="custom-figure">
-  <video autoplay loop muted playsinline>
-    <source src="/assets/gifs/IMG_0759.MOV" type="video/quicktime">
-    Your browser does not support the video tag.
-  </video>
-  <figcaption>Full system testing.</figcaption>
+  <img src="/assets/gifs/IMG_0759.gif" alt="Testing System Unmounted">
+  <figcaption>Testing of unmounted system.</figcaption>
+</figure>
+
+<figure class="custom-figure">
+  <img src="/assets/gifs/IMG_0760.gif" alt="Testing System">
+  <figcaption>Testing of steering system integration.</figcaption>
 </figure>
 
 [← Back to Resume](/resume/)
