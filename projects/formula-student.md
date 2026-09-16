@@ -40,7 +40,7 @@ We did not just design the parts; we built them. This involved significant time 
 
 <figure class="custom-figure">
   <img src="/assets/gifs/20240412_164624.gif" alt="Gearbox proto">
-  <figcaptionGearbox 3D printed protoype.</figcaption>
+  <figcaption>Gearbox 3D printed protoype.</figcaption>
 </figure>
 
 Some parts, such as the gears of the gearbox were also hardened in house. 
