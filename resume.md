@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-### Professional Summary
+### Summary
 I am a Mechatronics engineering graduate from KTH. Throughout my studies, I have completed a multitude of hands-on group projects and had the opportunity to work extensively with mechatronic systems. Most notable is my work at KTH Formula Student, where I worked on designing and manufacturing the steering system for a race car. This included mechanical design in CAD, as well as milling and turning to manufacture the parts ourselves.
 
 ### Relevant Experience
