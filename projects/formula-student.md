@@ -22,7 +22,7 @@ This page does not give a comprehensive understanding of all the work done. It i
 </figure>
 
 ### Technical Challenges & Solutions
-The purpose of the work was to design a steering system formula student car. The system needed to follow the rules of the competition and also other constraints set by the team. These constraints varied from weight, to applied max load and also functionality. 
+The steering system needed to comply to the rules of the FSG competition and also fulfill the specific needs set by the team. These needs varied from weight constraints to maximum tolerable load and also integration with the rest of the car's parts. 
 
 <figure class="custom-figure">
   <img src="/assets/images/steering-cad.png" alt="CAD Model of the Steering System">
