@@ -43,6 +43,6 @@ I am a Mechatronics engineering graduate from KTH. Throughout my studies, I have
 * **Core Specializations:** Mechanical design, Mechatronics, Control.
 * **Programming:** Python (Very comfortable), Matlab (Very comfortable), C, C++ (Comfortable).
 * **CAD:** NX, Solid Edge.
-* **Other:** Git, Linux, Simulink.
+* **Other:** Git, Linux, Simulink, ROS.
 * **Languages:** English (Proficient Bilingual), Arabic (Mother tongue Bilingual), Swedish (Proficient).
 * **License:** B-körkort.
